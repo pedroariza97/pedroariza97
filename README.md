@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando atualmente com servidores Linux em nuvem e JavaScrip/HTML 
 - 🌱 Estudando Javascrip node e mongoDb
-- 📫 Contato: devpedroariza@gmail.com.br
+- 📫 Contato: pedroseudoariza@gmail.com.br
 
  <div>
   <a href="https://github.com/pedroariza97">
