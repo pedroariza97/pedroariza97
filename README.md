@@ -1,6 +1,6 @@
 ### Oii eu sou o Pedro 👋
 
-- 🔭 Trabalhando atualmente com servidores Linux em nuvem rodando CentOS e asterisk, e também com JavaScrip/HTML 
+- 🔭 Trabalhando atualmente com cloud server e também com JavaScrip/HTML 
 - 🌱 Estudando Javascrip node e mongoDB
 - 📫 Contato: pedroseudoariza@gmail.com.br
 
