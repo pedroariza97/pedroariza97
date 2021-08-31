@@ -1,7 +1,7 @@
-### Olá eu sou o Pedro 👋
+### Oii eu sou o Pedro 👋
 
 - 🔭 Trabalhando atualmente com servidores Linux em nuvem e JavaScrip/HTML 
-- 🌱 Estudando Javascrip node e mongoDb
+- 🌱 Estudando Javascrip node e mongoDB
 - 📫 Contato: pedroseudoariza@gmail.com.br
 
  <div>
@@ -23,7 +23,8 @@
   <a href = "devpedroariza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-ariza-507b74160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+![Snake animation](https://github.com/pedroariza97/pedroariza97/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
