@@ -1,7 +1,7 @@
 ### Oii eu sou o Pedro 👋
 
-- 🔭 Trabalhando atualmente com cloud server e também com JavaScrip/HTML 
-- 🌱 Estudando Javascrip node e mongoDB
+- 🔭 Trabalhando atualmente com cloud server e também com javascript/HTML 
+- 🌱 Estudando javascript, node e mongoDB
 - 📫 Contato: pedroseudoariza@gmail.com.br
 
  <div>
