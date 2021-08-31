@@ -1,6 +1,6 @@
 ### Oii eu sou o Pedro 👋
 
-- 💻system analysis and development
+- 💻System Analysis and Development
 - 🔭 Trabalhando atualmente com Servidores em Nuvem e também com JavaScript/HTML 
 - 🌱 Estudando JavaScript, Node e MongoDB
 - 📫 Contato: pedroseudoariza@gmail.com.br
