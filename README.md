@@ -1,8 +1,8 @@
 ### Oii eu sou o Pedro 👋
 
 - 💻System Analysis and Development
-- 🔭 Trabalhando atualmente com Servidores em Nuvem e também com JavaScript/HTML 
-- 🌱 Estudando JavaScript, Node e MongoDB
+- 🔭 Trabalhando atualmente com cloud computing e JavaScript/HTML 
+- 🌱 Entusiasta de automação usando arduino e nodemcu
 - 📫 Contato: pedroseudoariza@gmail.com.br
 
  <div>
