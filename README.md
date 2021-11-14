@@ -1,4 +1,4 @@
-### Oii eu sou o Pedro 👋
+### Oii, eu sou o Pedro 👋
 
 - 💻System Analysis and Development
 - 🔭 Trabalhando atualmente com cloud computing e JavaScript/HTML 
