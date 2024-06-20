@@ -1,8 +1,8 @@
 ### Oii, eu sou o Pedro 👋
 
-- 💻System Analysis and Development
-- 🔭 Trabalhando atualmente com cloud computing e JavaScript/HTML 
-- 🌱 Entusiasta de automação usando arduino e nodemcu
+- 💻 System Analysis and Development
+- 🔭 Trabalhando atualmente com cloud computing e Servidores Asterisk 
+- 🌱 Entusiasta de automação, e tecnologia. 
 - 📫 Contato: pedroseudoariza@gmail.com.br
 
  <div>
