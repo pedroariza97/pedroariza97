@@ -1,9 +1,9 @@
 ### Oii, eu sou o Pedro 👋
 
-- 💻 System Analysis and Development
-- 🔭 Trabalhando atualmente com cloud computing e Servidores Asterisk 
+- 💻 software engineer
+- 🔭 Trabalhando atualmente com cloud computing e software engineer
 - 🌱 Entusiasta de automação, e tecnologia. 
-- 📫 Contato: pedroseudoariza@gmail.com.br
+- 📫 Contato: devpedroariza@gmail.com.br
 
  <div>
   <a href="https://github.com/pedroariza97">
