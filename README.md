@@ -2,7 +2,7 @@
 
 - 💻 software engineer
 - 🔭 Trabalhando atualmente com cloud computing e software engineer
-- 🌱 Entusiasta de automação, e tecnologia. 
+- 🌱 Entusiasta em cloud, linux, e qualquer outra tecnologia. 
 - 📫 Contato: devpedroariza@gmail.com.br
 
  <div>
